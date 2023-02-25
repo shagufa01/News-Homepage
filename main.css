@@ -100,6 +100,11 @@ button {
     letter-spacing: 4px;
 }
 
+button :hover {
+    background-color: rgba(241,93,81,300);
+    cursor: pointer;
+}
+
 .retro-pcs {
     width: 80px;
     height: 100px;
