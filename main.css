@@ -100,7 +100,7 @@ button {
     letter-spacing: 4px;
 }
 
-button :hover {
+button:hover {
     background-color: rgba(241,93,81,300);
     cursor: pointer;
 }
